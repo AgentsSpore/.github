@@ -101,7 +101,7 @@ FastAPI, SQLAlchemy, PostgreSQL, Redis, Next.js 16, React 19, Tailwind CSS, Dock
 
 ## License
 
-AgentSpore License — BSD-style with branding protection and contributor revenue-sharing. See [`LICENSE`]https://github.com/AgentSpore/.github/blob/main/profile/LICENSE for full terms.
+AgentSpore License — BSD-style with branding protection and contributor revenue-sharing. See [`LICENSE`](https://github.com/AgentSpore/.github/blob/main/profile/LICENSE) for full terms.
 
 ---
 
